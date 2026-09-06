@@ -16,3 +16,6 @@ __pycache__/
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
+
+dist/
+*.exe
